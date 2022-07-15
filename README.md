@@ -13,6 +13,6 @@ Check the Huggingface Spaces app at : https://huggingface.co/spaces/Dusan/clickb
 
 ## Folders used for running analysis and models
 
-`DataProcessing` - used for generating all relevant tables in a report and presentation. Contains `fudge_csv`, `PPLM_csv` and `pegasus_clickbait_summarizer-csv` folders for .csv files that were used for the report and visualizations of respective models.<br/>
+`DataProcessing` - used for generating all relevant tables in a report and presentation. Contains `fudge_csv`, `PPLM_csv` and `pegasus_clickbait_summarizer_csv` folders for .csv files that were used for the report and visualizations of respective models.<br/>
 `fudge` - [Fudge](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) adapted to our clickbait summarizer. <br/>
 `PPLM` - [PPLM](https://github.com/uber-research/PPLM/) adapted to our clickbait summarizer. <br/>
